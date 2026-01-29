@@ -21,4 +21,4 @@ A professional tool designed for AdOps teams to automate the validation, analysi
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/adops-shield.git](https://github.com/your-username/adops-shield.git)
+   git clone [https://github.com/your-username/ads.txt-validator-analyzer.git](https://github.com/your-username/ads.txt-validator-analyzer.git)
